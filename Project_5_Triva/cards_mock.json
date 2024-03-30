@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, what is the Ferengi&#039;s First Rule of Acquisition?",
+            "correct_answer": "Once you have their money, you never give it back. ",
+            "incorrect_answers": [
+                "Never place friendship above profit",
+                "Greed is Eternal",
+                "Never allow family to stand in the way of opportunity"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What was the #1 selling game on Steam by revenue in 2016?",
+            "correct_answer": "Sid Meier&#039;s Civilization VI",
+            "incorrect_answers": [
+                "Grand Theft Auto V",
+                "Counter Strike: Global Offensive",
+                "Dark Souls III"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT the name of a rival gang in the video game Saint&#039;s Row 2?",
+            "correct_answer": "The Zin Empire",
+            "incorrect_answers": [
+                "The Brotherhood",
+                "The Ronin",
+                "The Sons of Samedi"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The key of sharps does the key of G# minor contain?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "3",
+                "7",
+                "0"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+            "correct_answer": "Philadelphia Flyers",
+            "incorrect_answers": [
+                "New York Rangers",
+                "Toronto Maple Leafs",
+                "Boston Bruins"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What was Britney Spears&#039; debut single?",
+            "correct_answer": "...Baby One More Time",
+            "incorrect_answers": [
+                "Oops!... I Did It Again",
+                "(You Drive Me) Crazy",
+                "Toxic"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Books",
+            "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+            "correct_answer": "Holden Caulfield",
+            "incorrect_answers": [
+                "Fletcher Christian",
+                "Jay Gatsby",
+                "Randall Flagg"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "Valve Corporation is an American video game developer located in which city?",
+            "correct_answer": "Bellevue, Washington",
+            "incorrect_answers": [
+                "Austin, Texas",
+                "Seattle, Washington",
+                "San Francisco, California"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Night In The Woods, what is Mae Borowski mother&#039;s name?",
+            "correct_answer": "Candy",
+            "incorrect_answers": [
+                "Jenny",
+                "Margaret",
+                "Kate"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "Which of the following former Yugoslavian states is landlocked?",
+            "correct_answer": "Serbia",
+            "incorrect_answers": [
+                "Bosnia and Herzegovina",
+                "Montenegro",
+                "Croatia"
+            ]
+        }
+    ]
+}
